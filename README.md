@@ -1,0 +1,2 @@
+# This-project-implements-an-LPG-gas-leakage-detection-system-.-
+This project implements an LPG gas leakage detection system  using a gas sensor (MQ-series), microcontroller (Arduino Uno),  and a servo-motor mechanism to automatically turn off the gas  when leakage is detected. The system provides both audio  (buzzer) and visual (LED) alarms, ensuring real-time safety in  kitchens or enclosed spaces. 
